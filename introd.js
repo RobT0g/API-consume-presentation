@@ -10,7 +10,7 @@ function run(){
     console.log(msg)
 })('Anonymous Hello World')
 
-//Functions as parameters
+//Functions as parameters (lambda functions in python are the equivalent to this)
 let a = (msg) => {
     console.log(msg)
 }
