@@ -1,0 +1,24 @@
+{
+  "name": "api-consume-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobT0g/API-consume-presentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobT0g/API-consume-presentation/issues"
+  },
+  "homepage": "https://github.com/RobT0g/API-consume-presentation#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
