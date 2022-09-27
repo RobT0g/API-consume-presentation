@@ -1,0 +1,6 @@
+run "npm init on" terminal
+add "type":"module" on package.json (demanded for imports, but you can also just use require)
+run "npm i --save axios" on terminal
+create main.js (name does not really matter, but it is a good practice to create and set the main file on the package.json)
+add "import axios from 'axios'" or "const axios = require('axios')"
+have fun =)

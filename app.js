@@ -1,4 +1,5 @@
 import axios from 'axios'
+//const axios = require('axios')
 
 let req = axios.create({
     baseURL: 'http://arest.me/api',
