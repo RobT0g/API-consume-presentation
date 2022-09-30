@@ -1,0 +1,14 @@
+Setup
+Introd
+Async
+Apps:
+0 - Basic
+1 - Get with an Id
+2 - Get with an Id from a previous request
+3 - Get region from 2 previous requests
+4 - Callback Hell
+5 - Inefficient Async basic *EXCEL HERE*
+6 - Async with 2 promise.all
+7 - Intelligent promise.all with callback hell
+8 - Best Async
+Post
